@@ -1,48 +1,29 @@
-# Ignore local environment files
-.env
-.env.local
-next_proxy/.env.local
-# Node modules and build
-node_modules/
-.next/# Python
+﻿# Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
-*.so
-*.egg
-*.egg-info/
-dist/
-build/
-eggs/
-.eggs/
-lib/
-lib64/
-parts/
-sdist/
-var/
-*.egg-info/
-pip-wheel-metadata/
+*$py.class
 
-# Virtualenv
+# Virtual Environments
 .venv/
 venv/
 ENV/
 env/
-env.bak/
 
-# IDEs
+# IDEs and Editors
 .vscode/
 .idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
 
-# OS files
-.DS_Store
+# Operating System Files
 Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
 
-# dotenv
+# Local configuration/secrets
 .env
-.env.local
-
-# logs
 *.log
-
-# ngrok
-*.ngrok
