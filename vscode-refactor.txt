@@ -1,0 +1,14 @@
+Refactor this code to improve readability, maintainability, and safety without changing its external behavior.
+
+Rules:
+- Preserve function signatures unless a change is necessary and explain it.
+- Keep the original behavior intact.
+- Prefer small, targeted improvements over rewrites.
+- Improve naming, structure, separation of concerns, and error handling.
+- Do not remove working logic unless it is clearly broken.
+
+Output:
+1. What changed
+2. Why it helps
+3. Risks or edge cases
+4. Full updated code

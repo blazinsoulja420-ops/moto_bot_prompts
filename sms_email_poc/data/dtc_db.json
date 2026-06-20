@@ -1,0 +1,8 @@
+{
+  "P0300": { "desc": "Random/Multiple Cylinder Misfire", "oem": "Kia: 12-001-19" },
+  "P0171": { "desc": "System Too Lean (Bank 1)", "oem": "Honda: P0171-1" },
+  "P0420": { "desc": "Catalyst System Efficiency Below Threshold (Bank 1)", "oem": "Cadillac: 8-042-20" },
+  "P0301": { "desc": "Cylinder 1 Misfire Detected", "oem": "Generic" },
+  "P0302": { "desc": "Cylinder 2 Misfire Detected", "oem": "Generic" },
+  "P0135": { "desc": "O2 Sensor Heater Circuit (Bank 1 Sensor 1)", "oem": "Generic" }
+}

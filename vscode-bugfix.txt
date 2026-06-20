@@ -1,0 +1,15 @@
+Find the root cause of the bug, explain it briefly, fix it with the smallest safe change, and return the full updated code.
+
+Rules:
+- Do not change unrelated logic.
+- Preserve behavior everywhere except the bug path.
+- Use the smallest safe fix first.
+- If multiple causes are possible, rank them by likelihood and verify with evidence from the code.
+- Include a short verification step.
+
+Output:
+1. Root cause
+2. Fix applied
+3. Why it works
+4. Full updated code
+5. Verification steps

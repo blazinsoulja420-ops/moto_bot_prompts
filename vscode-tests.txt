@@ -1,0 +1,14 @@
+Write thorough tests for this code using the project’s existing test framework.
+
+Rules:
+- Cover normal cases, edge cases, invalid inputs, and regression scenarios.
+- Match the project’s current testing style and framework.
+- Keep tests focused on behavior, not implementation details.
+- If the code needs a small adjustment to improve testability, explain it first.
+- Return the full test file.
+
+Output:
+1. Test plan
+2. What is covered
+3. Full test code
+4. Any setup or run instructions
